@@ -1,2 +1,3 @@
 Voilà le contenu de mon premier fichier.
-Ce n'est pas grand chose :(
+Ce n'est pas grand chose.
+Mais voici une modification du fichier. C'est déjà mieux !!!!
